@@ -3,7 +3,7 @@
 #include "phone.h"
 #include <string>
 using namespace std;
-class contact:public phone
+class contact
 {
 private:
 	int id;
